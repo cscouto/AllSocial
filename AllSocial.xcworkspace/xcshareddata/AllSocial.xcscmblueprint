@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A7AD183645AB57F37F1082BEDCAA31F0F8778B5F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B0646478FE580BEF1B3DB928834B2AF32A2F79AC" : 9223372036854775807,
+    "A7AD183645AB57F37F1082BEDCAA31F0F8778B5F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4B85B278-0B8B-4811-B307-53CF655E1457",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B0646478FE580BEF1B3DB928834B2AF32A2F79AC" : "..\/Downloads\/devslopes-social-final-source-code",
+    "A7AD183645AB57F37F1082BEDCAA31F0F8778B5F" : "AllSocial\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AllSocial",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AllSocial.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cscouto\/AllSocial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A7AD183645AB57F37F1082BEDCAA31F0F8778B5F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JessRascal\/devslopes-social.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B0646478FE580BEF1B3DB928834B2AF32A2F79AC"
+    }
+  ]
+}
